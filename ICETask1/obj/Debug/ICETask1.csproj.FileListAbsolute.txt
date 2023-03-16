@@ -1,0 +1,8 @@
+C:\Users\myipa\source\repos\ICETask1\bin\Debug\ICETask1.exe.config
+C:\Users\myipa\source\repos\ICETask1\bin\Debug\ICETask1.exe
+C:\Users\myipa\source\repos\ICETask1\bin\Debug\ICETask1.pdb
+C:\Users\myipa\source\repos\ICETask1\obj\Debug\ICETask1.csproj.AssemblyReference.cache
+C:\Users\myipa\source\repos\ICETask1\obj\Debug\ICETask1.csproj.SuggestedBindingRedirects.cache
+C:\Users\myipa\source\repos\ICETask1\obj\Debug\ICETask1.csproj.CoreCompileInputs.cache
+C:\Users\myipa\source\repos\ICETask1\obj\Debug\ICETask1.exe
+C:\Users\myipa\source\repos\ICETask1\obj\Debug\ICETask1.pdb
